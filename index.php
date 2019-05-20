@@ -115,7 +115,7 @@
             <a href="#" class="btn btn-danger btn-sm btn-block" role="button">COMPOSE</a>
             <hr />
             <ul class="nav nav-pills nav-stacked">
-                <li class="active"><a href="index1.php"><span class="badge pull-right"><?php echo   sizeof($emailData); ?></span> Inbox </a>
+                <li class="active"><a href="index.php"><span class="badge pull-right"><?php echo   sizeof($emailData); ?></span> Inbox </a>
                 </li>
                 <li><a style='color:black;' href="#">Starred</a></li>
                 <li><a style='color:black;' href="#">Important</a></li>
